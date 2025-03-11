@@ -160,7 +160,9 @@ public class BasicMethods {
 			// 'center'});", element);
 			// element.click();
 
+
        System.out.println("End of AutomationScript TimNews");
+
        
 
 
